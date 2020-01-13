@@ -11,3 +11,9 @@ $ git commit -m "First Commit" <<--- commit file
 $ git push -u origin master <<--- 
 
 login your git account
+
+To change branch
+
+$ git checkout -b "branch name"
+
+$ git checkout branchName
