@@ -1,0 +1,19 @@
+$ git init 		<<--- Initialized empty git repository
+
+$ git status		<<--- show commit file
+
+$ git add filename.java <<--- add specify file
+
+$ git add .		<<--- add all file
+
+$ git commit -m "First Commit" <<--- commit file
+
+$ git push -u origin master <<--- 
+
+login your git account
+
+To change branch
+
+$ git checkout -b "branch name"
+
+$ git checkout branchName
